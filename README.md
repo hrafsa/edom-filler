@@ -10,7 +10,7 @@ This script automates the process of filling out the EDOM (Evaluasi Dosen oleh M
     - **Chrome**: You can use the keyboard shortcut `Ctrl + Shift + J` (Windows/Linux) or `Cmd + Option + J` (Mac).
     - **Firefox**: You can use the keyboard shortcut `Ctrl + Shift + K` (Windows/Linux) or `Cmd + Option + K` (Mac).
     - **Safari**: First, enable the Develop menu in Safari's Advanced preferences. You can use the keyboard shortcut `Cmd + Option + C` (Mac).
-    - 
+
 3. Copy and paste the following script into the console:
 
 ```javascript
